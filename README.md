@@ -36,12 +36,6 @@ A Python project demonstrating **Object-Oriented Programming (OOPs)** concepts w
 - OOPs concepts (Encapsulation, Inheritance, Polymorphism, Abstraction)
 - File Handling (CSV, TXT)
 
-## 📂 Project Structure
-├── student_manager.py         # Main project file
-├── student.csv                # Sample student data (CSV) 
-└── README.md                  # Documentation
-
-
 
 ---
 
