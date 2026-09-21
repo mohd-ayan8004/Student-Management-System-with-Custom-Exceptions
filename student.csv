@@ -1,0 +1,5 @@
+ROLL_NO,NAME,MARKS
+1,Ali,"{'Math': 95, 'Science': 80}"
+2,Sara,"{'Math': 70, 'English': 85}"
+3,John,"{'Science': 60, 'History': 75}"
+4,Aman,"{'Math': 40, 'Science': 30, 'English': 50, 'PYTHON': 45}"
