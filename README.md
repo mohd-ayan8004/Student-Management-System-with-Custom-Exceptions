@@ -50,7 +50,6 @@ student_lists = [
 
 ## 📈 Example Output
 
-```text
 Loaded Students: [{'ROLL_NO': 1, 'NAME': 'Ali', 'MARKS': {'Math': 95, 'Science': 80}}, 
                   {'ROLL_NO': 2, 'NAME': 'Sara', 'MARKS': {'Math': 70, 'English': 85}}, 
                   {'ROLL_NO': 3, 'NAME': 'John', 'MARKS': {'Science': 60, 'History': 75}}, 
